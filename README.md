@@ -6,5 +6,5 @@ Design a minesweeper game of N*N grid Some  randomly-selected squares, unknown t
 
 ```ruby
 #To play the game run
-cd Minesweeper && ruby play.rb
+cd minesweeper && ruby play.rb
 ```
